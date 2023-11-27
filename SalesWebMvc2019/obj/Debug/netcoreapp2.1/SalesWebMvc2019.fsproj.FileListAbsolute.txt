@@ -1,0 +1,10 @@
+C:\Users\casa\source\repos\SalesWebMvc2019\SalesWebMvc2019\bin\Debug\netcoreapp2.1\SalesWebMvc2019.deps.json
+C:\Users\casa\source\repos\SalesWebMvc2019\SalesWebMvc2019\bin\Debug\netcoreapp2.1\SalesWebMvc2019.runtimeconfig.json
+C:\Users\casa\source\repos\SalesWebMvc2019\SalesWebMvc2019\bin\Debug\netcoreapp2.1\SalesWebMvc2019.runtimeconfig.dev.json
+C:\Users\casa\source\repos\SalesWebMvc2019\SalesWebMvc2019\bin\Debug\netcoreapp2.1\SalesWebMvc2019.dll
+C:\Users\casa\source\repos\SalesWebMvc2019\SalesWebMvc2019\bin\Debug\netcoreapp2.1\SalesWebMvc2019.pdb
+C:\Users\casa\source\repos\SalesWebMvc2019\SalesWebMvc2019\obj\Debug\netcoreapp2.1\SalesWebMvc2019.fsproj.AssemblyReference.cache
+C:\Users\casa\source\repos\SalesWebMvc2019\SalesWebMvc2019\obj\Debug\netcoreapp2.1\SalesWebMvc2019.AssemblyInfoInputs.cache
+C:\Users\casa\source\repos\SalesWebMvc2019\SalesWebMvc2019\obj\Debug\netcoreapp2.1\SalesWebMvc2019.AssemblyInfo.fs
+C:\Users\casa\source\repos\SalesWebMvc2019\SalesWebMvc2019\obj\Debug\netcoreapp2.1\SalesWebMvc2019.dll
+C:\Users\casa\source\repos\SalesWebMvc2019\SalesWebMvc2019\obj\Debug\netcoreapp2.1\SalesWebMvc2019.pdb
